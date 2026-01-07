@@ -293,15 +293,3 @@ if __name__ == "__main__":
         print("\n👋 Dashboard monitoring stopped")
 
 
-# ============================================
-# INSTALLATION INSTRUCTIONS
-# ============================================
-"""
-Install required packages:
-    pip install yfinance pandas plotly
-
-Run the dashboard:
-    python dashboard.py
-
-Then open 'dashboard.html' in your browser!
-"""
